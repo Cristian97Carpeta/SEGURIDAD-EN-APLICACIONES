@@ -1,0 +1,10 @@
+¿Por qué el cifrado César es inseguro hoy en día?
+
+RTA: El cifrado César es inseguro hoy en día porque tiene un espacio de claves muy limitado, lo que permite un fácil ataque.
+     Además, mantiene los patrones de frecuencia de las letras, facilitando el análisis de frecuencia para descifrar el mensaje.
+
+
+¿Cómo mejorarías este algoritmo para hacerlo más robusto?
+
+RTA: Para mejorar el cifrado César y hacerlo más robusto, utilizarÍA el cifrado Vigenère, 
+    que emplea una clave más larga y variada en lugar de un simple desplazamiento fijo.
